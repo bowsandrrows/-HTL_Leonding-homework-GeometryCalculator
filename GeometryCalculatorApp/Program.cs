@@ -18,7 +18,7 @@ static double parseInput( string input )
 }
 
 #region Prompt for First Letter
-
+// implemented in the while loop below
 //double width = 0d, height = 0d, radius = 0d, baseLength = 0d;
 
 Shape? shape = null;
