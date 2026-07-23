@@ -21,6 +21,6 @@ namespace GeometryCalculatorLib.Models
             Height *= Math.Sqrt( factor );
         }
 
-        public override string ToString() => $"RECTANGLE\n\n New width = {Width}\nNew height = {Height}";
+        public override string ToString() => $"RECTANGLE\n New width = {Width}\nNew height = {Height}";
     }
 }

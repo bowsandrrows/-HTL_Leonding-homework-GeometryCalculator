@@ -17,7 +17,7 @@ namespace GeometryCalculatorLib.Models
         public override void Scale( double factor ) { Radius *= Math.Sqrt(factor); }
 
 
-        public override string ToString() => $"CIRCLE\n\nNew radius: {Radius}";
+        public override string ToString() => $"CIRCLE\nNew radius: {Radius}";
 
     }
 

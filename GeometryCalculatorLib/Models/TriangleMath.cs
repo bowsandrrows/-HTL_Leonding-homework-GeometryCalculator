@@ -25,6 +25,6 @@ namespace GeometryCalculatorLib.Models
             Height *= Math.Sqrt( factor );
         }
 
-        public override string ToString() => $"TRIANGLE\n\nNew base value = {BaseLength}\nNew height = {Height}";
+        public override string ToString() => $"TRIANGLE\nNew base value = {BaseLength}\nNew height = {Height}";
     }
 }
