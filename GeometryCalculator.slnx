@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GeometryCalculatorApp/GeometryCalculatorApp.csproj" />
+  <Project Path="GeometryCalculatorLib/GeometryCalculatorLib.csproj" />
+</Solution>
